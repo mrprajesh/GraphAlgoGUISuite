@@ -264,7 +264,7 @@ public class BFSFrame extends javax.swing.JInternalFrame {
 
     private void inputImpButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_inputImpButtonActionPerformed
         // TODO add your handling code here:
-        jFileChooser1.setVisible(true);
+        //jFileChooser1.setVisible(true); 
     }//GEN-LAST:event_inputImpButtonActionPerformed
     
     int numVertices=0;
